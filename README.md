@@ -6,5 +6,6 @@ in this game there is 2 mode- mode 1: player mode 2: computer mode
 <h4>mode 1: (player mode) </h4> you have to enter 2 player name and select their choice one by one and result is shown of that round. There is 3 round as you know and  declair the winner name after 3rd round. If you are interseted you can play ferther otherwise  you can left the game.
 <h4>mode 2: (computer mode)</h4> At this time you have to enter a single player name and he/she play with computer. In this mode player enter own choice and computer choose own and declair all 3 round result and then declair winner name.
 <h3>IMAGE OF GAME WHEN RUN IN TERMINAL</h3>
-![game screenshort](https://raw.githubusercontent.com/ps052927/rock-paper-scissor-game/184e4a0bf3d24413ae85c95bbcc8d8b610616540/Screenshot%202026-02-19%20224220.png)<br>
-![game screenshort](https://github.com/ps052927/rock-paper-scissor-game/blob/main/Screenshot%202026-02-19%20224008.png?raw=true)
+![game screenshort](https://github.com/ps052927/rock-paper-scissor-game/blob/main/Screenshot%202026-02-19%20224008.png?raw=true)<br>
+![game screenshort](https://raw.githubusercontent.com/ps052927/rock-paper-scissor-game/184e4a0bf3d24413ae85c95bbcc8d8b610616540/Screenshot%202026-02-19%20224220.png)
+
